@@ -1,1 +1,1 @@
-import{a}from"/build/_shared/chunk-2HQFXNVZ.js";import"/build/_shared/chunk-5XNNEDOD.js";import"/build/_shared/chunk-J3PKFMLQ.js";import"/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/practica_1/build/_shared/chunk-2HQFXNVZ.js";import"/practica_1/build/_shared/chunk-5XNNEDOD.js";import"/practica_1/build/_shared/chunk-J3PKFMLQ.js";import"/practica_1/build/_shared/chunk-OZE3FFNP.js";export default a();

@@ -1,1 +1,1 @@
-import{a}from"/build/_shared/chunk-GHA6ELD7.js";import"/build/_shared/chunk-OZE3FFNP.js";export default a();
+import{a}from"/practica_1/build/_shared/chunk-GHA6ELD7.js";import"/practica_1/build/_shared/chunk-OZE3FFNP.js";export default a();

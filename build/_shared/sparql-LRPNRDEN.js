@@ -1,0 +1,1 @@
+import{a}from"/practica_1/build/_shared/chunk-7L2WYR5Q.js";import"/practica_1/build/_shared/chunk-62UCZOV7.js";import"/practica_1/build/_shared/chunk-RAQ24GF6.js";export default a();

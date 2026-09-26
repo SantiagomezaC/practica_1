@@ -14,6 +14,9 @@ project:
     - PySpark
     - prueba de DeLong
     - LIME
+  authors:
+    - name: Manuel Meza
+    - name: Kevin Clemente
   github: https://github.com/SantiagomezaC/practica_1
   toc:
     - file: intro.md

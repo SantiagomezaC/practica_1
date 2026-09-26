@@ -4,7 +4,7 @@ subtitle: scikit-learn frente a PySpark — modelado, comparación estadística 
 short_title: Presentación
 ---
 
-**Proyecto integrador de aprendizaje automático** · Machine Learning UN 202330
+Proyecto integrador de aprendizaje automático · Machine Learning UN 202330
 
 ## Resumen
 

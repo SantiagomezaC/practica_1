@@ -1,5 +1,7 @@
 # Riesgo de incumplimiento en préstamos de Lending Club
 
+**Autores:** Manuel Meza y Kevin Clemente
+
 Proyecto integrador de aprendizaje automático (sección 9.10 del curso). Se predice si un préstamo de Lending Club termina en *default* (`Charged Off`) o se paga por completo (`Fully Paid`) con seis modelos implementados en **scikit-learn** y en **PySpark**. Las diferencias de desempeño se contrastan con las pruebas de DeLong, McNemar y bootstrap pareado, y las predicciones se interpretan con LIME.
 
 - **Jupyter Book publicado:** https://santiagomezac.github.io/practica_1/

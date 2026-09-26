@@ -1,0 +1,25 @@
+name: ml-lending
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - pyspark=3.5
+  - pandas=2.2
+  - numpy=1.26
+  - scipy
+  - scikit-learn=1.9
+  - statsmodels
+  - matplotlib
+  - seaborn
+  - pyarrow
+  - lime
+  - missingno
+  - psutil
+  - joblib
+  - jupyterlab
+  - ipykernel
+  - nbconvert
+  - pip
+  - pip:
+      - mystmd
+      - ghp-import

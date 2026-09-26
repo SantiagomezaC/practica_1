@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="64" height="64" role="img" aria-label="Logotipo: curva ROC">
+  <rect x="2" y="2" width="60" height="60" rx="14" fill="#1F3A5F"/>
+  <path d="M14 50 L50 14" stroke="#8FA7C4" stroke-width="2" stroke-dasharray="3 3" fill="none"/>
+  <path d="M14 50 C 16 32, 24 22, 50 14" stroke="#DD8452" stroke-width="4.5" stroke-linecap="round" fill="none"/>
+  <path d="M14 50 L14 14 M14 50 L50 50" stroke="#FFFFFF" stroke-width="2.5" stroke-linecap="round" fill="none"/>
+</svg>
